@@ -81,3 +81,7 @@
                       Purpose: A basic program for writing and editing plain text files.
                       
                       How it was used: likely used a text editor to create and save the generate_report.py and sales_data.csv files on  local computer before uploading them to Colab or running them locally.
+
+*OUTPUT*
+
+[sales_report.pdf](https://github.com/user-attachments/files/20577281/sales_report.pdf)
