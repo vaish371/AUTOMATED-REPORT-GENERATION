@@ -84,4 +84,6 @@
 
 *OUTPUT*
 
-[sales_report.pdf](https://github.com/user-attachments/files/20577281/sales_report.pdf)
+![Image](https://github.com/user-attachments/assets/021ffc9d-dc50-4e24-8ca6-e97a4cc8cfd7)
+
+![Image](https://github.com/user-attachments/assets/2e49d210-b69c-4e2a-947d-0e6d781f7193)
